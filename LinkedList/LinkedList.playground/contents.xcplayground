@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='SampleLinkedList'/>
+        <page name='AddFirst'/>
+        <page name='AddBack'/>
+        <page name='Insert'/>
+        <page name='Delete'/>
+        <page name='IsEmptyAndClear'/>
+    </pages>
+</playground>
